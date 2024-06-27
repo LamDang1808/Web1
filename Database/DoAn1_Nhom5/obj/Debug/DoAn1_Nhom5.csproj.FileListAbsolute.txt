@@ -1,0 +1,11 @@
+D:\LamHaiDang_DoAn1\Database\DoAn1_Nhom5\bin\Debug\DoAn1_Nhom5.exe.config
+D:\LamHaiDang_DoAn1\Database\DoAn1_Nhom5\bin\Debug\DoAn1_Nhom5.exe
+D:\LamHaiDang_DoAn1\Database\DoAn1_Nhom5\bin\Debug\DoAn1_Nhom5.pdb
+D:\LamHaiDang_DoAn1\Database\DoAn1_Nhom5\obj\Debug\DoAn1_Nhom5.csproj.AssemblyReference.cache
+D:\LamHaiDang_DoAn1\Database\DoAn1_Nhom5\obj\Debug\DoAn1_Nhom5.btHienThi.resources
+D:\LamHaiDang_DoAn1\Database\DoAn1_Nhom5\obj\Debug\DoAn1_Nhom5.Properties.Resources.resources
+D:\LamHaiDang_DoAn1\Database\DoAn1_Nhom5\obj\Debug\DoAn1_Nhom5.csproj.GenerateResource.cache
+D:\LamHaiDang_DoAn1\Database\DoAn1_Nhom5\obj\Debug\DoAn1_Nhom5.csproj.CoreCompileInputs.cache
+D:\LamHaiDang_DoAn1\Database\DoAn1_Nhom5\obj\Debug\DoAn1_Nhom5.exe
+D:\LamHaiDang_DoAn1\Database\DoAn1_Nhom5\obj\Debug\DoAn1_Nhom5.pdb
+D:\LamHaiDang_DoAn1\Database\DoAn1_Nhom5\obj\Debug\DoAn1_Nhom5.CapNhatThongTinBenhNhan.resources

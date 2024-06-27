@@ -1,0 +1,245 @@
+body {
+  font-family: 'Inter';
+  margin: 0;
+  background-color: #fafafa;
+  background-position-y: -100px;
+}
+
+h1 {
+  font-family: 'Inter';
+  margin-top: 0;
+}
+
+p {
+  margin-top: 8px;
+}
+
+.container {
+  position: relative;
+}
+
+#tag1 {
+  background-color: #ddf2f7;
+  margin-left: 250px;
+  padding: 10px 320px 0px 50px;
+  border-bottom: 10px;
+  text-transform: uppercase;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+#tag2 {
+  background-color: #ddf2f7;
+  top: 0;
+  text-align: left;
+  float: center;
+  padding: 10px 10px 2.5px 10px;
+  border-bottom: 10px;
+  text-transform: uppercase;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #ddf2f7;
+}
+
+nav {
+  margin: 0% auto;
+  height: 150px;
+  width: 100%;
+  background-color: #ddf2f7;
+  color: #333333;
+  display: flex;
+  justify-content: center;
+  padding: 0 0px;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+  color: #333333;
+  text-transform: capitalize;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+.right {
+  position: absolute;
+}
+
+.list {
+  justify-content: center;
+  display: flex;
+  list-style: none;
+  text-transform: capitalize;
+  background-color: #ddf2f7;
+}
+
+.list2 {
+  justify-content: center;
+  display: flex;
+  list-style: none;
+  text-transform: capitalize;
+  background-color: #ddf2f7;
+}
+
+.list3 {
+  justify-content: center;
+  display: flex;
+  list-style: none;
+  text-transform: capitalize;
+  background-color: #ddf2f7;
+}
+
+.list li {
+  background-color: #ddf2f7;
+  top: 0;
+  text-align: center;
+  float: center;
+  padding: 10px 10px 2.5px 10px;
+  border-bottom: 10px;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 2px white, 0 0 25px blue, 0 0 5px darkblue;
+  margin: 20px;
+  padding: 5px;
+  font-weight: bold;
+  
+}
+
+.active {
+  color: #e84118;
+}
+
+.list a:hover {
+  color: #e84118;
+}
+
+.button1 {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  border-radius: 20px;
+  border: 1px solid #ddf2f7;
+}
+
+.button1:hover {
+  background-color: #b8e994;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#tag3 {
+  display: flex;
+  justify-content: flex-end;
+  right: 0px;
+  top: 20px;
+  margin-right: 300px;
+  position: absolute;
+}
+
+#tag4 {
+  display: flex;
+  justify-content: center;
+}
+
+#formCNTTBN {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+td {
+	margin: 10px 50px;
+	font-size: 18px;
+	color: black;
+  line-height: 20px;
+}
+
+input{
+	display: flex;
+	justify-content: center;
+	font-size: 18px;
+  display: block;
+  width: 90%;
+  height: 30px;
+  border-radius: 25px;
+  padding: 8px 15px;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+.submit {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  border-radius: 20px;
+  border: 1px solid #ddf2f7;
+}
+
+.submit:hover {
+  background-color: #b8e994;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.reset {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  border-radius: 20px;
+  border: 1px solid #ddf2f7;
+  margin-left: 100px;
+}
+
+.reset:hover {
+  background-color: #b8e994;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#LoaiDichVu {
+  display: flex;
+	justify-content: center;
+	font-size: 18px;
+  display: block;
+  width: 90%;
+  height: 40px;
+  border-radius: 25px;
+  padding: 8px 15px;
+  margin-top: 20px;
+  margin-left: 15px;
+}
